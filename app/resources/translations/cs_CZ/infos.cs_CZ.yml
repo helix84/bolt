@@ -57,6 +57,6 @@ about:
         <p>Redakční systém Bolt, včetně všech jeho částí, je volně k užití v rámci open source licence MIT. Její plné znění licence najdete v souboru <a href="https://docs.bolt.cm/other/license">LICENSE.md</a>.</p>
 prefill:
     short_help: |
-        <p>Označte typy obsahu, které chcet naplnit zkušebním obsahem.</p>
+        <p>Označte typy obsahu, které chcete naplnit zkušebním obsahem.</p>
         <p>Bolt naplní do databáze pouze ty typy obsahu, které nemají v databázi žádný záznam. A to i v případě, že jsou označeny k vyplnění.</p>
 
